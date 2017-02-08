@@ -8,7 +8,7 @@ import time
 
 # bugs: unable to update values while clicking is happening due to focus_set() but can't delete that without breaking esc hotkey
 # bugs: esc hotkey only works when screen is set
-# todo: go through and revise
+
 
 
 class Clicker():
