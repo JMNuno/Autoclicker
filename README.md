@@ -1,5 +1,5 @@
 # Autoclicker
-Python3 autoclicker with GUI
+Python3 autoclicker with GUI - For all your cookie clicking needs
 
 Note some bugyyness with esc hotkey. GUI must be highlighted for hotkey to work
 
